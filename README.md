@@ -13,8 +13,7 @@ We used three notebooks for this project:
 - **rec_sys_content.ipynb**: Used to build a basic content-based recommendation system.
 - **rec_sys_collaborative.ipynb**: Used to build multiple collaborative filtering recommendation systems based on various methods.
 
-
-## Run the code
+## Running the code
 As we preferred to use Conda, we utilized it to create our environment. We did not include the environment.yml file due to compatibility issues across different platforms (e.g., some have NVIDIA GPUs, while others do not). Instead, we provided the commands to create a new Conda environment and installed all necessary packages listed in requirements.txt. Below are the commands, in order:
 
 ```
